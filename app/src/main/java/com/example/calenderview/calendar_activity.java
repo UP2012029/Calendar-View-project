@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.LinearLayout;
 
-public class main_activity extends AppCompatActivity {
+public class calendar_activity extends AppCompatActivity {
 
     calendarView CalendarView;
     @Override
